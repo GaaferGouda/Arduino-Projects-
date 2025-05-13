@@ -1,4 +1,4 @@
-```markdown
+
 # Arduino Projects 🛠️
 
 A collection of Arduino-based projects ranging from LED matrices to ultrasonic radar systems. Explore various implementations using sensors, displays, and infrared communication.
